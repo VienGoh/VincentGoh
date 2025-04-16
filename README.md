@@ -71,13 +71,6 @@ However, I am happy to discuss the technical challenges, development process, an
 
 ---
 
-## ✨ Portfolio Website
-
-Check out more of my work:  
-**[vincentgoh.my.canva.site](https://vincentgoh.my.canva.site)**
-
----
-
 ## 📫 Contact
 
 - **Email**: [vincpr71@gmail.com](mailto:vincpr71@gmail.com)  
