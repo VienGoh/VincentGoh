@@ -51,7 +51,7 @@ STMIK TIME – Medan, Sumatera Utara
 
 ### **QC System**  
 A quality control application that validates product specifications and determines pass/reject status using predefined criteria.  
-*Technologies: VB.NET, SQL Server*
+*Technologies: VB.NET,C#, SQL Server*
 
 ### **Arrival Tracking System**  
 A real-time arrival monitoring system to track product or vehicle movement, enhancing visibility and operational coordination.  
@@ -60,6 +60,10 @@ A real-time arrival monitoring system to track product or vehicle movement, enha
 ### **Scanout Stock System**  
 A QR-code-based inventory scanning program for stock monitoring and location tracking, allowing seamless pallet/box management.  
 *Technologies: VB.NET, QR Code, SQL Server*
+
+### **Sales Application**  
+An application designed to handle Sales Orders, Invoices, Down Payments, and Delivery Orders.  
+*Technologies: VB.NET, SQL Server*
 
 ---
 
