@@ -1,54 +1,90 @@
-# Hi, I'm Vincent! 👋
+# 👋 Hi, I'm Vincent Goh
 
-I'm a passionate Software Developer with nearly 3 years of experience building desktop and web applications using **.NET technologies**, particularly **VB.NET**, **C#**, and **.NET Core**. I also have strong skills in **SQL Server**, **JavaScript**, **Kotlin**, and **Microsoft Dynamics NAV (ERP)**.
+*Code with elegance, craft with simplicity*
 
-## 🚀 Skills
-
-- **Languages & Frameworks**: C#, VB.NET, .NET Core, JavaScript, Kotlin  
-- **Database**: SQL Server  
-- **ERP**: Microsoft Dynamics NAV  
-- **Other**: Clean code principles, back-end & UI development
-
-## 🧠 Work Experience
-
-### **Programmer**  
-**PT Musim Mas** – *Medan, Sumatera Utara*  
-*Jun 2024 – Present*  
-- Developed and maintained software using VB.NET and .NET Core  
-- Built scalable backend services and UI components  
-- Managed SQL Server databases for high performance and data reliability
-
-### **Software Developer**  
-**PT Industri Pembungkus Internasional** – *Medan, Sumatera Utara*  
-*Feb 2022 – May 2024*  
-- Built business applications using C# and VB.NET  
-- Designed and maintained complex SQL Server database architectures  
-- Worked with ERP systems and contributed to enterprise process automation
-
-## 💼 Projects (Descriptions Only)
-
-### **ERP Enhancement Tools**
-- Internal tools built to extend Microsoft Dynamics NAV functionality
-- Streamlined internal workflows such as reporting and inventory control
-- Focused on maintainability, integration, and SQL efficiency
-
-### **Inventory & Distribution Dashboard**
-- Desktop-based dashboard showing live inventory, delivery status, and vehicle document tracking
-- Developed using VB.NET and SQL Server
-
-*(Note: Source code for these projects is proprietary and cannot be shared.)*
-
-## 🎓 Education
-
-**Bachelor's in Computer Science**  
-STMIK TIME – *Medan, Sumatera Utara*  
-Expected: September 2024
-
-## 📫 Contact Me
-
-- **Email**: [Vincpr71@gmail.com](mailto:Vincpr71@gmail.com)  
-- **Location**: Medan, Sumatera Utara  
-- **GitHub**: [github.com/viengoh](https://github.com/viengoh)
+I'm a passionate .NET Developer with a strong foundation in VB.NET, C#, and .NET Core. I bring a practical understanding of both frontend and backend development, database management, and user-centered design principles. I thrive in environments where I can grow, face challenges, and contribute to impactful software solutions.
 
 ---
 
+## 🧰 Technical Skills
+
+- **Languages & Frameworks**: VB.NET, C#, .NET Core  
+- **Database**: SQL Server, MySQL  
+- **Development Areas**: Backend development, ERP integration, UI/UX design, Desktop Applications  
+- **ERP Experience**: Microsoft Dynamics NAV  
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Science**  
+STMIK TIME – Medan, Sumatera Utara  
+*2020 – 2024 (Expected)*
+
+---
+
+## 💼 Experience
+
+### **IT Programmer**  
+**PT. Musim Mas** – Medan, Sumatera Utara  
+*June 2024 – Present*  
+- Developed scalable software using VB.NET and .NET Core  
+- Built robust backend services and intuitive UIs  
+- Handled SQL Server databases to ensure smooth operations
+
+### **IT Development**  
+**PT. Industri Pembungkus Internasional** – Medan, Sumatera Utara  
+*February 2022 – May 2024*  
+- Developed ERP-related features and internal applications  
+- Built systems with C#, VB.NET, and SQL Server  
+- Created maintainable and efficient database structures
+
+### **Administration**  
+**PT. Platina Mulia Abadi** – Medan, Sumatera Utara  
+*October 2020 – November 2021*  
+- Managed inventory distribution and licensing logistics  
+- Coordinated delivery strategies for sales units
+
+---
+
+## 🧪 Project Gallery
+
+### **QC System**  
+A quality control application that validates product specifications and determines pass/reject status using predefined criteria.  
+*Technologies: VB.NET, SQL Server*
+
+### **Arrival Tracking System**  
+A real-time arrival monitoring system to track product or vehicle movement, enhancing visibility and operational coordination.  
+*Technologies: VB.NET, QR Code integration*
+
+### **Scanout Stock System**  
+A QR-code-based inventory scanning program for stock monitoring and location tracking, allowing seamless pallet/box management.  
+*Technologies: VB.NET, QR Code, SQL Server*
+
+---
+
+## 🔐 About Source Code
+
+Most of the projects listed in this portfolio were developed as part of my professional experience. Due to company policies and confidentiality agreements, I am unable to share the source code publicly.
+
+However, I am happy to discuss the technical challenges, development process, and solutions implemented during those projects.
+
+---
+
+## ✨ Portfolio Website
+
+Check out more of my work:  
+**[vincentgoh.my.canva.site](https://vincentgoh.my.canva.site)**
+
+---
+
+## 📫 Contact
+
+- **Email**: [vincpr71@gmail.com](mailto:vincpr71@gmail.com)  
+- **Phone**: (+62) 821-8430-3714  
+- **GitHub**: [github.com/viengoh](https://github.com/viengoh)  
+- **Location**: Medan, Sumatera Utara  
+
+---
+
+*Let's build impactful software together.*
